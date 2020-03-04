@@ -1,3 +1,1 @@
-# Assignment8
-### Welcome to Assingnment 8 of CS648 ###
-This is an employee management system, which is purely based on javascript. You can add and delete employees to and from table.
+### Created a simple Employee Management System in JavaScript where we can add and delete employee's information.
